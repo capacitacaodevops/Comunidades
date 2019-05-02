@@ -1,3 +1,3 @@
 #!/bin/bash
 
-/sbin/ifconfig |grep inet
+/sbin/ifconfig |grep inet > ifconfig.txt
