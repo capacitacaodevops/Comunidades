@@ -1,3 +1,3 @@
 #!/bin/bash
 
-/sbin/ifconfig  > ifconfig.txt
+/sbin/ifconfig  > ifconfig2.txt
